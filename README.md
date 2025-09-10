@@ -52,7 +52,7 @@
 ## 🌐 Vamos nos conectar?  
 
 <p align="center">
-  <a href="https://linkedin.com/in/linkedin.com/in/samuel-avelino">
+  <a href="https://www.linkedin.com/public-profile/settings">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:avelinofortebrgmail.com">
